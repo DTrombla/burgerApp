@@ -1,0 +1,51 @@
+body{
+  color:white;
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/9/9a/Big_Mac_hamburger.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: 1320px 1140px;
+}
+
+h1{
+  text-align: center;
+}
+li {
+  width:80%;
+  padding: 5px;
+  margin: 5px;
+  font-size: 23px;
+}
+
+.container{
+  margin: auto;
+}
+.form-group {
+  margin-bottom: 5px;
+}
+
+.change-devour{
+  z-index:-1;
+  float: right;
+}
+.burgerControl{
+  border-width: 2px;
+  border-style: solid;
+  border-color: white;
+  border-radius:10px;
+  margin-left:50px;
+  
+}
+.burgerAdd{
+  margin: auto;
+  text-align: center;
+  width: 500px;
+}
+.burgerName{
+  width:100%;
+  font-size:23px;
+  text-align: left;
+}
+.inputBox{
+  width:358px;
+}
